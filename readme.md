@@ -1,3 +1,8 @@
+## Docker Image (Prebuilt)
+You can pull and run the prebuilt Docker image for this backend:
+docker pull r300887882/amazon-tracker-backend:latest
+
+
 # 🛒 Amazon Price Tracker (Backend)
 
 This is the Django backend for the Amazon Price Tracker app. It allows users to track Amazon product prices, organize them into watchlists,
