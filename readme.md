@@ -1,6 +1,6 @@
 ## Docker Image (Prebuilt)
 You can pull and run the prebuilt Docker image for this backend:
-docker pull r300887882/amazon-tracker-backend:latest
+docker pull royav1/amazon-tracker-backend:latest
 
 
 # 🛒 Amazon Price Tracker (Backend)
